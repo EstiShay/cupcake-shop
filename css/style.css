@@ -43,3 +43,7 @@ h2 {
   color: red;
   font-style: italic;
 }
+
+.best {
+  font-weight: bold;
+}
